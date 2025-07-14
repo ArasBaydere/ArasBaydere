@@ -18,13 +18,14 @@
 - [Tech Stack](#tech-stack)
 - [GitHub / WakaTime Stats](#github--wakatime-stats)
 - [Featured Projects](#featured-projects)
-- [Project Demos](#project-demos)
 - [Contact](#contact)
 
 ---
 
 ### 📈 Visitor Counter
-![Visitor Count](https://profile-counter.glitch.me/arasbaydere/count.svg)
+<p align="center">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/arasbaydere&title=Profile%20Views&edge_flat=false"/>
+</p>
 
 ---
 
@@ -72,8 +73,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arasbaydere&layout=compact&theme=tokyonight"/>
 </p>
 
-<!-- WakaTime integration needs to be set up separately -->
-<!-- You can use https://github.com/athul/waka-readme -->
+<!-- Optional: Set up WakaTime GitHub Action to display coding hours -->
 
 ---
 
@@ -85,15 +85,6 @@
 | 📡 ESP32-CAM IoT Bot | Remote-controlled bot with camera stream via Blynk | ESP32‑CAM • Flask • IoT |
 | 🛍️ AI Product Assistant | Gemini API–powered chatbot for product data scraping and recommendation | PHP • Gemini API • JS |
 | 📱 Fullstack Market App | Marketplace app with Django backend and Flutter UI | Flutter • Django REST • MySQL |
-
----
-
-### 🎥 Project Demos
-
-| Project | Preview |
-|--------|---------|
-| ESP32 IoT Bot | ![ESP32 Demo](https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif) <!-- replace with your GIF --> |
-| Autonomous Robot | ![Robot Demo](https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif) <!-- replace with your GIF --> |
 
 ---
 
