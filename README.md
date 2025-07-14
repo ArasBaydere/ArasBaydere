@@ -10,9 +10,8 @@
 </p>
 
 <p align="center">
-  <img src="https://badgen.net/github/views/arasbaydere?icon=eye&label=Profile%20Views&color=00aaff" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=arasbaydere&style=flat-square&color=blue" alt="Profile views" />
 </p>
-
 
 ---
 
