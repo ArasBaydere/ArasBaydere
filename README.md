@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Aras Baydere</h1>
 <h3 align="center">
-  Robotics Engineer @ <a href="https://ibbtech.com.tr">İBBTech</a> •
-  Full‑Stack & AI Developer @ <a href="https://noktabilisim.com.tr">Nokta Bilişim ve Elektronik Sistemleri A.Ş.</a> •
+  Robotics Engineer @ <a href="https://teknolojiatolyeleri.ibb.istanbul/ibbtech/">İBBTech</a> •
+  Full‑Stack & AI Developer @ <a href="https://www.noktaelektronik.com.tr/tr/">Nokta Bilişim ve Elektronik Sistemleri A.Ş.</a> •
   Tech Entrepreneur
 </h3>
 
