@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Aras Baydere</h1>
 <h3 align="center">
-  Robotics Engineer @ <a href="https://ibbtech.com.tr">İBBTech</a> •
-  Full‑Stack & AI Developer @ <a href="https://noktabilisim.com.tr">Nokta Bilişim</a> •
+  Robotics Engineer @ <a href="https://teknolojiatolyeleri.ibb.istanbul/ibbtech/">İBBTech</a> •
+  Full‑Stack & AI Developer @ <a href="https://www.noktaelektronik.com.tr/tr/">Nokta Bilişim</a> •
   Tech Entrepreneur
 </h3>
 
@@ -34,38 +34,56 @@
 ### 🏆 Achievements
 
 ![İTÜRO 2025 Champion](https://img.shields.io/badge/İTÜRO%202025-Rescue%20Bot%20Champion-blue?style=for-the-badge)
-_**İTÜRO 2025'te geliştirdiğimiz kurtarma robotu ile şampiyonluk.**_
 ![Robochallenge Romania Sumo World Champion](https://img.shields.io/badge/Robochallenge-Romania%20Sumo%20World%20Champion-red?style=for-the-badge)
-_**Romanya'da düzenlenen Robochallenge'da sumo robotumuzla dünya şampiyonluğu.**_
 ![VEX RC Ankara Excellence Award](https://img.shields.io/badge/VEX%20RC-Ankara%20Excellence%20Award-blueviolet?style=for-the-badge)
-_**VEX Robotik Yarışmaları Ankara'da mükemmel tasarım ve programlama ödülü.**_
 ![VEX RC Hisar Open Innovate Award](https://img.shields.io/badge/VEX%20RC-Hisar%20Open%20Innovate%20Award-yellow?style=for-the-badge)
-_**VEX Robotik Yarışmaları Hisar Açık'ta yenilikçi yaklaşım ödülü.**_
 
 ---
 
 ### 🛠 Tech Stack
 
-#### Languages & Frameworks
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+#### Core Languages
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+#### Web Technologies
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+#### Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 #### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-#### Hardware & Embedded
+#### Robotics & Embedded Systems
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry%20pi&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS-22040E?style=for-the-badge&logo=ros&logoColor=white)
+![Gazebo](https://img.shields.io/badge/Gazebo-247C7C?style=for-the-badge&logo=gazebosim&logoColor=white)
+
+#### AI & Machine Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-2EE44A?style=for-the-badge&logo=opencv&logoColor=white)
+
+#### Cloud & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 #### Design & Tools
 ![Fusion 360](https://img.shields.io/badge/Fusion360-F0922B?style=for-the-badge&logo=autodesk&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
